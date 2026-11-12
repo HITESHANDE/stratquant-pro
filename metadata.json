@@ -1,0 +1,6 @@
+{
+  "name": "StratQuant Pro - Algorithmic Trading & Strategy Suite",
+  "description": "Institutional-grade trading software featuring 13 algorithmic strategies across Intraday, Swing, and Positional styles with stock-wise performance ranking, options chain analysis, and multi-metric strategy comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
